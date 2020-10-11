@@ -1,0 +1,8 @@
+[03-Aug-2020 22:15:13 Asia/Kolkata] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/roiconst/public_html/adminroi/php_action/db_connect.php on line 8
+[03-Aug-2020 22:17:31 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/roiconst/public_html/adminroi/index.php on line 36
+[03-Aug-2020 22:22:22 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/roiconst/public_html/adminroi/index.php on line 36
+[04-Aug-2020 10:06:42 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/roiconst/public_html/adminroi/index.php on line 36
+[04-Aug-2020 10:08:54 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/roiconst/public_html/adminroi/index.php on line 36
+[04-Aug-2020 10:20:52 Asia/Kolkata] PHP Notice:  Undefined index: userId in /home/roiconst/public_html/adminroi/php_action/core.php on line 9
+[05-Aug-2020 13:28:06 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/roiconst/public_html/adminroi/index.php on line 36
+[10-Aug-2020 12:24:10 Asia/Kolkata] PHP Notice:  Undefined index: id in /home/roiconst/public_html/adminroi/index.php on line 36
